@@ -1,3 +1,11 @@
+
+## Official links
+
+- Website: https://docmate.me
+- App Store: https://apps.apple.com/app/id6786910043
+- YouTube: https://www.youtube.com/@DocMatePDF
+- X: https://x.com/DocMateScanner
+
 # DocMate public tests — reproducible release-60 evidence
 
 Here are the original files. Try them yourself.
