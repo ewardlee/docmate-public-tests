@@ -1,3 +1,11 @@
+# DocMate 2.0 beta — testers wanted
+
+DocMate 2.0 is currently available to external testers through TestFlight. We are recruiting people who genuinely use PDFs and scans on iPhone/iPad and are willing to send concrete feedback.
+
+**[Join the TestFlight beta and see the testing missions](BETA.md)**
+
+---
+
 
 ## Official links
 
