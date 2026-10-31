@@ -12,7 +12,7 @@ DocMate 2.0 is in external TestFlight testing while the App Store update is unde
 
 ## Join
 
-**[Join DocMate 2.0 on TestFlight](https://testflight.apple.com/join/zNYrD5pc)**
+**[Join DocMate 2.0 on TestFlight](https://testflight.apple.com/join/6dAXtmt3)**
 
 Current beta: **DocMate 2.0.0 (Build 120)**.
 
