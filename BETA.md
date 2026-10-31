@@ -28,6 +28,12 @@ We are intentionally recruiting a small number of people with real document-heav
 
 If none fits, use the general beta link above. Please use fictional or privacy-safe documents. We want honest workflow feedback, not praise.
 
+## See the real-work stories
+
+The beta is organized around concrete jobs — lawyers comparing contract revisions, salespeople signing with remote clients, property managers handling leases, procurement teams checking quotes, field teams closing handovers, HR teams sending offers, and students managing research PDFs.
+
+**[See the scenario stories with genuine DocMate 2.0 screenshots](SCENARIOS.md)**
+
 ## Who will give the most useful feedback?
 
 Please join if you use PDFs, scans, forms, receipts, contracts, study material, or document signing on iPhone/iPad at least weekly and can complete at least two missions below.
