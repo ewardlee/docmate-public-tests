@@ -43,9 +43,15 @@ Try a long or image-heavy PDF, Search, Workspace or Activity. Report slow loadin
 
 The fastest method is **TestFlight screenshot feedback**: take a screenshot while using DocMate, annotate it if useful, then submit it through TestFlight.
 
-For a structured report, use the GitHub template:
+For a structured bug report, use the GitHub template:
 
 **[Submit DocMate beta feedback](https://github.com/ewardlee/docmate-public-tests/issues/new?template=beta-feedback.yml)**
+
+If you do not use GitHub — or if you want to opt in to future beta follow-up — use the short DocMate feedback form:
+
+**[Share real-world beta feedback / join the Founding Tester Circle](https://docs.google.com/forms/d/e/1FAIpQLSdTqkfetO3bBOGE4yPy4clsMGi477wDLXTuZtN7DKQtrLmRRQ/viewform?usp=publish-editor)**
+
+The form does not require a Google sign-in and does not ask you to upload documents. Contact details are optional.
 
 Useful reports include:
 - build number, device and OS version;
