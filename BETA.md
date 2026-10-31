@@ -23,7 +23,10 @@ We are intentionally recruiting a small number of people with real document-heav
 - **Legal & contracts** — lawyers, paralegals, legal ops, contract administrators: [Join this cohort](https://testflight.apple.com/join/e5dv3qug)
 - **Finance & procurement** — accountants, AP/AR, finance operations, purchasing and procurement admins: [Join this cohort](https://testflight.apple.com/join/A9u3RV2D)
 - **Property & leasing** — property managers, landlords, leasing admins and real-estate agents: [Join this cohort](https://testflight.apple.com/join/GHu6JWrk)
-- **Small business & independent work** — owners, freelancers, consultants, sales and field-service admins: [Join this cohort](https://testflight.apple.com/join/PRHZm4Rg)
+- **Sales & remote client work** — B2B sales reps, account managers, customer-success and relationship managers: [Join this cohort](https://testflight.apple.com/join/F4fSmBgZ)
+- **Small business & independent work** — owners, freelancers, consultants and solo operators: [Join this cohort](https://testflight.apple.com/join/PRHZm4Rg)
+- **Field service & handover** — technicians, installers, contractors, inspectors and field supervisors: [Join this cohort](https://testflight.apple.com/join/EPaX6wbH)
+- **HR & people operations** — recruiters, HR admins, people ops and office managers: [Join this cohort](https://testflight.apple.com/join/24KQcpTn)
 - **Students & research** — graduate students, researchers, teachers and dissertation students: [Join this cohort](https://testflight.apple.com/join/YfH5DJBP)
 
 If none fits, use the general beta link above. Please use fictional or privacy-safe documents. We want honest workflow feedback, not praise.
