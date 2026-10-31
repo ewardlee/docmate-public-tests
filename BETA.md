@@ -31,6 +31,16 @@ We are intentionally recruiting a small number of people with real document-heav
 
 If none fits, use the general beta link above. Please use fictional or privacy-safe documents. We want honest workflow feedback, not praise.
 
+## Zero-preparation field-service demo
+
+**No need to invent a work order or use private client documents.** Download a ready-made fictional two-page work order, hand the phone across for a demo signature (try Airplane Mode), save/reopen, and compare a revised version with changed time, quantity, total and follow-up.
+
+- **[Open the ready-made PDF V1](https://raw.githubusercontent.com/ewardlee/docmate-public-tests/main/Inputs/Field_Service_Work_Order_V1.pdf)**
+- **[Open the revised PDF V2](https://raw.githubusercontent.com/ewardlee/docmate-public-tests/main/Inputs/Field_Service_Work_Order_V2.pdf)**
+- **[Full five-minute field-service test instructions](FIELD_SERVICE_DEMO.md)**
+
+You can also help without installing TestFlight: tell us what you currently do to get paperwork signed before leaving a job. Honest criticism welcome.
+
 ## See the real-work stories
 
 The beta is organized around concrete jobs — lawyers comparing contract revisions, salespeople signing with remote clients, property managers handling leases, procurement teams checking quotes, field teams closing handovers, HR teams sending offers, and students managing research PDFs.

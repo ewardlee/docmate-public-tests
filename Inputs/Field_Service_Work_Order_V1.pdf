@@ -1,0 +1,484 @@
+%PDF-1.4
+%DEMO ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (DocMate public testing - fictional sample) /CreationDate (D:20000101000000+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20000101000000+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Non-sensitive sample for field service signing and PDF revision comparison) /Title (Fictional Field Service Work Order V1 - DocMate Test Sample) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Length 6032
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.082353 .184314 .282353 rg
+n
+0 680 m
+612 680 l
+612 680 612 680 612 680 c
+612 792 l
+612 792 612 792 612 792 c
+0 792 l
+0 792 0 792 0 792 c
+0 680 l
+0 680 0 680 0 680 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 753 Tm (SAMPLEWORKS  /  FIELD SERVICE) Tj T* ET
+1 1 1 rg
+BT /F2 19 Tf 22.8 TL ET
+BT 1 0 0 1 42 726 Tm (Work Order / Service Record) Tj T* ET
+.8 .898039 .968627 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 705 Tm (Customer-site completion and document handover) Tj T* ET
+.086275 .454902 .733333 rg
+n
+478 740 m
+558 740 l
+563.528 740 568 744.472 568 750 c
+568 754 l
+568 759.528 563.528 764 558 764 c
+478 764 l
+472.472 764 468 759.528 468 754 c
+468 750 l
+468 744.472 472.472 740 478 740 c
+h
+f*
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 482 748 Tm (FICTIONAL DEMO) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 42 29 Tm (DEMO ONLY - ALL PEOPLE, LOCATIONS AND AMOUNTS ARE FICTIONAL) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 508 29 Tm (V1  |  1 / 2) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 45 m 570 45 l S
+.929412 .956863 .972549 rg
+n
+48 622 m
+564 622 l
+567.3168 622 570 624.6832 570 628 c
+570 659 l
+570 662.3168 567.3168 665 564 665 c
+48 665 l
+44.6832 665 42 662.3168 42 659 c
+42 628 l
+42 624.6832 44.6832 622 48 622 c
+h
+f*
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 56 645 Tm (WORK ORDER) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 628 Tm (FS-DEMO-2046) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 235 645 Tm (DOCUMENT VERSION) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 235 628 Tm (V1) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 409 645 Tm (STATUS) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 409 628 Tm (READY FOR REVIEW) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 595 Tm (01) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 595 Tm (Assignment) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 585 m 570 585 l S
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 565 Tm (SERVICE COMPANY) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 48 547 Tm (SampleWorks Field Services \(fictional\)) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 333 565 Tm (CUSTOMER) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 333 547 Tm (Demo Customer / Cedar Grove Site) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 517 Tm (SITE) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 48 499 Tm (100 Example Lane, Demo City) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 333 517 Tm (VISIT DATE) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 333 499 Tm (02 Nov 2026) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 469 Tm (TECHNICIAN) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 48 451 Tm (Alex Example \(fictional\)) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 333 469 Tm (COMPLETED AT) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 333 451 Tm (16:20) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 419 Tm (02) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 419 Tm (Work completed) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 409 m 570 409 l S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 392 Tm (HVAC inspection and filter replacement for sample office air handlers.) Tj T* ET
+.929412 .956863 .972549 rg
+n
+46 322 m
+566 322 l
+568.2112 322 570 323.7888 570 326 c
+570 372 l
+570 374.2112 568.2112 376 566 376 c
+46 376 l
+43.7888 376 42 374.2112 42 372 c
+42 326 l
+42 323.7888 43.7888 322 46 322 c
+h
+f*
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 55 356 Tm (SCOPE) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 55 339 Tm (Inspected 4 units and replaced 4 filters.) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 294 Tm (03) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 294 Tm (Service charges \(fictional\)) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 284 m 570 284 l S
+1 1 1 rg
+.839216 .890196 .921569 RG
+n
+46 228 m
+566 228 l
+568.2112 228 570 229.7888 570 232 c
+570 272 l
+570 274.2112 568.2112 276 566 276 c
+46 276 l
+43.7888 276 42 274.2112 42 272 c
+42 232 l
+42 229.7888 43.7888 228 46 228 c
+h
+B*
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 56 258 Tm (LABOR + FILTER MATERIALS) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 56 239 Tm (Includes inspection, disposal and site cleanup.) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 452 244 Tm (USD 285.00) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 204 Tm (04) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 204 Tm (Technician notes) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 194 m 570 194 l S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 180 Tm (No follow-up required based on today's checks.) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 158 Tm (Customer should review the handover checklist on page 2 before signing.) Tj T* ET
+1 .968627 .909804 rg
+n
+47 79 m
+565 79 l
+567.764 79 570 81.236 570 84 c
+570 132 l
+570 134.764 567.764 137 565 137 c
+47 137 l
+44.236 137 42 134.764 42 132 c
+42 84 l
+42 81.236 44.236 79 47 79 c
+h
+f*
+.541176 .337255 .078431 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 56 117 Tm (TEST TASK) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 56 100 Tm (Open in DocMate, review both pages, add a DEMO signature on page 2,) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 56 85 Tm (save, close, reopen, then share/export the resulting copy.) Tj T* ET
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Length 4357
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.082353 .184314 .282353 rg
+n
+0 680 m
+612 680 l
+612 680 612 680 612 680 c
+612 792 l
+612 792 612 792 612 792 c
+0 792 l
+0 792 0 792 0 792 c
+0 680 l
+0 680 0 680 0 680 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 42 753 Tm (SAMPLEWORKS  /  FIELD SERVICE) Tj T* ET
+1 1 1 rg
+BT /F2 19 Tf 22.8 TL ET
+BT 1 0 0 1 42 726 Tm (Customer Handover) Tj T* ET
+.8 .898039 .968627 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 705 Tm (Acknowledgement checklist and sample signature areas) Tj T* ET
+.086275 .454902 .733333 rg
+n
+478 740 m
+558 740 l
+563.528 740 568 744.472 568 750 c
+568 754 l
+568 759.528 563.528 764 558 764 c
+478 764 l
+472.472 764 468 759.528 468 754 c
+468 750 l
+468 744.472 472.472 740 478 740 c
+h
+f*
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 482 748 Tm (FICTIONAL DEMO) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 42 29 Tm (DEMO ONLY - ALL PEOPLE, LOCATIONS AND AMOUNTS ARE FICTIONAL) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 508 29 Tm (V1  |  2 / 2) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 45 m 570 45 l S
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 639 Tm (05) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 639 Tm (Handover checklist) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 629 m 570 629 l S
+.086275 .454902 .733333 RG
+1 w
+n 50 607 10 10 re S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 66 609 Tm (Service scope explained to customer) Tj T* ET
+.086275 .454902 .733333 RG
+1 w
+n 50 581 10 10 re S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 66 583 Tm (Equipment tested and operational at handover) Tj T* ET
+.086275 .454902 .733333 RG
+1 w
+n 50 555 10 10 re S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 66 557 Tm (Work area left clean and safe) Tj T* ET
+.086275 .454902 .733333 RG
+1 w
+n 50 529 10 10 re S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 66 531 Tm (Customer received a copy of the work order) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 491 Tm (06) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 491 Tm (Follow-up and observations) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 481 m 570 481 l S
+.929412 .956863 .972549 rg
+n
+47 411 m
+565 411 l
+567.764 411 570 413.236 570 416 c
+570 468 l
+570 470.764 567.764 473 565 473 c
+47 473 l
+44.236 473 42 470.764 42 468 c
+42 416 l
+42 413.236 44.236 411 47 411 c
+h
+f*
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 54 453 Tm (FOLLOW-UP) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 432 Tm (No additional work scheduled at this time.) Tj T* ET
+.086275 .454902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 388 Tm (07) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 69 388 Tm (Customer acknowledgement) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 42 378 m 570 378 l S
+.082353 .184314 .282353 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 361 Tm (The customer has reviewed this fictional service record and notes.) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 345 Tm (For testing only: this signature is NOT evidence of a real transaction.) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 315 Tm (CUSTOMER NAME) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 48 288 m 286 288 l S
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 321 315 Tm (DATE) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n 321 288 m 564 288 l S
+.317647 .384314 .454902 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 264 Tm (CUSTOMER SIGNATURE / DEMO MARK) Tj T* ET
+.839216 .890196 .921569 RG
+1 w
+n
+48 143 m
+564 143 l
+567.3168 143 570 145.6832 570 149 c
+570 243 l
+570 246.3168 567.3168 249 564 249 c
+48 249 l
+44.6832 249 42 246.3168 42 243 c
+42 149 l
+42 145.6832 44.6832 143 48 143 c
+h
+S
+.537255 .654902 .733333 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 178 192 Tm (PLACE A FICTIONAL SIGNATURE HERE) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 113 Tm (TECHNICIAN: Alex Example \(fictional\)) Tj T* ET
+.082353 .184314 .282353 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 94 Tm (WORK ORDER: FS-DEMO-2046) Tj T* ET
+.317647 .384314 .454902 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 48 75 Tm (This document is a sample for software usability testing only.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001183 00000 n 
+0000001248 00000 n 
+0000007331 00000 n 
+trailer
+<<
+/ID 
+[<1073bd40fb9c0003c364817ad97e9cc9><1073bd40fb9c0003c364817ad97e9cc9>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
+startxref
+11740
+%%EOF

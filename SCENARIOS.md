@@ -152,6 +152,9 @@ A freelancer or consultant receives a revised scope of work.
 ---
 
 ## Field service & handover
+**Try it now — no real documents required:** [Download the fictional V1 handover PDF, V2 revision and step-by-step field-service test](FIELD_SERVICE_DEMO.md). Download first, then test signing/saving in Airplane Mode and report what actually works; reconnect before sharing. This is a test scenario, not a guarantee of offline availability.
+
+
 
 ### “The job is finished. The customer wants a signed handover copy before you leave.”
 

@@ -7,6 +7,12 @@ DocMate 2.0 is currently available to external testers through TestFlight. We ar
 ---
 
 
+## Try a ready-made work order (no documents to prepare)
+
+**[Download the fictional field-service work order and try the 5-minute demo](FIELD_SERVICE_DEMO.md).** Includes two PDF versions, a customer-signature box, an offline handover test, and a Compare mission. All personal information is invented.
+
+---
+
 ## Official links
 
 - Website: https://docmate.me
