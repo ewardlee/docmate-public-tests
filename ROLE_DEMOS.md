@@ -4,6 +4,8 @@ These are **fictional, privacy-safe PDFs** made specifically for the DocMate 2.0
 
 You do not need to create your own document before testing. Pick the role closest to your real work, download V1 and V2, then run the short mission.
 
+**After the test:** send a screenshot through TestFlight, or use the **[2-minute DocMate beta feedback form](https://forms.gle/5Zo7hoFX7rJVKH5x7)**. No Google sign-in or document upload is required; contact details are optional.
+
 ## Legal / contracts
 
 Use the existing fictional service agreement pair:
