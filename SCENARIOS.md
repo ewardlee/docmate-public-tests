@@ -4,6 +4,8 @@ DocMate is being tested around **real document workflows**, not generic feature 
 
 ## Legal & contracts
 
+**[Try the Legal V1/V2 sample PDFs](ROLE_DEMOS.md#legal--contracts)** - no real documents required.
+
 ### “They say they only changed one date. Do you trust that sentence?”
 
 A lawyer or contract administrator gets a revised service agreement by email. The sender says the only change is the renewal date.
@@ -72,6 +74,8 @@ A sales rep or account manager sends a proposal or contract through Mail, WhatsA
 
 ## Finance & procurement
 
+**[Try the Finance / Procurement quote V1/V2 pack](ROLE_DEMOS.md#finance--procurement)** - no real supplier files required.
+
 ### “Three supplier quotes have nearly the same filename — but the total changed.”
 
 A buyer or procurement admin receives multiple quote revisions.
@@ -96,6 +100,8 @@ A buyer or procurement admin receives multiple quote revisions.
 ---
 
 ## Property & leasing
+
+**[Try the fictional Lease V1/V2 pack](ROLE_DEMOS.md#property--leasing)** - no real tenant or property data required.
 
 ### “The tenant can sign tonight. You do not want to drive across town for one PDF.”
 
@@ -185,6 +191,8 @@ For technicians, installers, contractors and field supervisors.
 
 ## HR & people operations
 
+**[Try the fictional Offer Letter V1/V2 pack](ROLE_DEMOS.md#hr--people-operations)** - no real employee data required.
+
 ### “The offer letter was approved — then the start date changed.”
 
 A recruiter or HR administrator has two versions of the same offer.
@@ -209,6 +217,8 @@ A recruiter or HR administrator has two versions of the same offer.
 ---
 
 ## Students & research
+
+**[Try the fictional Assignment Brief V1/V2 pack](ROLE_DEMOS.md#students--research)** - no real coursework or research data required.
 
 ### “The answer is somewhere in a 200-page PDF. You just cannot find it again.”
 

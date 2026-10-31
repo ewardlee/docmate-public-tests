@@ -41,6 +41,12 @@ If none fits, use the general beta link above. Please use fictional or privacy-s
 
 You can also help without installing TestFlight: tell us what you currently do to get paperwork signed before leaving a job. Honest criticism welcome.
 
+## Ready-made fictional test packs
+
+You do not need to prepare your own PDF before testing. We now provide role-specific V1/V2 samples for legal/contracts, finance/procurement, property/leasing, HR, students/research and field-service handover.
+
+**[Open the ready-made role test packs](ROLE_DEMOS.md)**
+
 ## See the real-work stories
 
 The beta is organized around concrete jobs — lawyers comparing contract revisions, salespeople signing with remote clients, property managers handling leases, procurement teams checking quotes, field teams closing handovers, HR teams sending offers, and students managing research PDFs.
