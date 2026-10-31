@@ -49,7 +49,7 @@ For a structured bug report, use the GitHub template:
 
 If you do not use GitHub — or if you want to opt in to future beta follow-up — use the short DocMate feedback form:
 
-**[Share real-world beta feedback / join the Founding Tester Circle](https://docs.google.com/forms/d/e/1FAIpQLSdTqkfetO3bBOGE4yPy4clsMGi477wDLXTuZtN7DKQtrLmRRQ/viewform?usp=publish-editor)**
+**[Share real-world beta feedback / join the Founding Tester Circle](https://forms.gle/5Zo7hoFX7rJVKH5x7)**
 
 The form does not require a Google sign-in and does not ask you to upload documents. Contact details are optional.
 
