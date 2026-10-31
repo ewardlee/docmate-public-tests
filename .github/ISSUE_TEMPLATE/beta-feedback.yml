@@ -8,6 +8,25 @@ body:
       value: |
         Thanks for testing DocMate 2.0. Please do not upload private documents, signatures, IDs, financial statements, or confidential business files.
   - type: dropdown
+    id: role
+    attributes:
+      label: Which real-world workflow is closest to yours?
+      options:
+        - Legal / contracts
+        - Finance / accounting / procurement
+        - Property / leasing / real estate
+        - Small business / freelance / consulting
+        - Student / research / education
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country or region
+      description: Optional; helps us understand whether a workflow issue is locale-specific.
+      placeholder: "Example: Canada"
+  - type: dropdown
     id: mission
     attributes:
       label: Area tested

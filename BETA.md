@@ -16,6 +16,18 @@ DocMate 2.0 is in external TestFlight testing while the App Store update is unde
 
 Current beta: **DocMate 2.0.0 (Build 120)**.
 
+### Choose the workflow closest to your real work
+
+We are intentionally recruiting a small number of people with real document-heavy workflows. Pick the closest group; each link is capped so we can tell which workflows produce useful feedback.
+
+- **Legal & contracts** — lawyers, paralegals, legal ops, contract administrators: [Join this cohort](https://testflight.apple.com/join/e5dv3qug)
+- **Finance & procurement** — accountants, AP/AR, finance operations, purchasing and procurement admins: [Join this cohort](https://testflight.apple.com/join/A9u3RV2D)
+- **Property & leasing** — property managers, landlords, leasing admins and real-estate agents: [Join this cohort](https://testflight.apple.com/join/GHu6JWrk)
+- **Small business & independent work** — owners, freelancers, consultants, sales and field-service admins: [Join this cohort](https://testflight.apple.com/join/PRHZm4Rg)
+- **Students & research** — graduate students, researchers, teachers and dissertation students: [Join this cohort](https://testflight.apple.com/join/YfH5DJBP)
+
+If none fits, use the general beta link above. Please use fictional or privacy-safe documents. We want honest workflow feedback, not praise.
+
 ## Who will give the most useful feedback?
 
 Please join if you use PDFs, scans, forms, receipts, contracts, study material, or document signing on iPhone/iPad at least weekly and can complete at least two missions below.
