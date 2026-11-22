@@ -4,6 +4,8 @@
 
 **[Download DocMate 2.0 on the App Store](https://apps.apple.com/app/id6786910043)**
 
+See **[eight work stories on the official DocMate V2 website](https://docmate.me/stories/)**.
+
 Try a fictional document that matches your real work: **[Stories by profession](SCENARIOS.md)** · **[Ready-made PDF samples](ROLE_DEMOS.md)** · **[Field-service work-order demo](FIELD_SERVICE_DEMO.md)**. These examples are fictional, not customer testimonials. Public App Store installation does not require TestFlight.
 
 Historical [external TestFlight test notes](BETA.md) are retained only as archive material.
