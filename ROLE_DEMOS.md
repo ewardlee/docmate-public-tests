@@ -1,10 +1,10 @@
 # DocMate 2.0 - ready-made role test packs
 
-These are **fictional, privacy-safe PDFs** made specifically for the DocMate 2.0 TestFlight beta.
+These are **fictional, privacy-safe PDF samples** that you can use with **DocMate 2.0, now available on the App Store**: https://apps.apple.com/app/id6786910043. PDF Compare requires DocMate Pro; check the original files before acting.
 
 You do not need to create your own document before testing. Pick the role closest to your real work, download V1 and V2, then run the short mission.
 
-**After the test:** send a screenshot through TestFlight, or use the **[2-minute DocMate beta feedback form](https://forms.gle/5Zo7hoFX7rJVKH5x7)**. No Google sign-in or document upload is required; contact details are optional.
+**After the test:** share privacy-safe feedback using the **[2-minute DocMate workflow feedback form](https://forms.gle/5Zo7hoFX7rJVKH5x7)**. Do not submit private documents or customer information.
 
 ## Legal / contracts
 
@@ -17,7 +17,7 @@ Use the existing fictional service agreement pair:
 
 **Mission:** Compare V1 vs V2 → Review the actual change → Sign only after you find it → Save/Reopen.
 
-**Legal TestFlight:** https://testflight.apple.com/join/e5dv3qug
+**Legal App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
@@ -30,7 +30,7 @@ Use the existing fictional service agreement pair:
 
 **Mission:** Compare → identify every changed commercial term → Review → keep the approved copy in Workspace.
 
-**Finance / Procurement TestFlight:** https://testflight.apple.com/join/A9u3RV2D
+**Finance / Procurement App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
@@ -43,7 +43,7 @@ Use the existing fictional service agreement pair:
 
 **Mission:** Compare → Review the changed lease terms → Sign with a DEMO signature → Save/Reopen.
 
-**Property / Leasing TestFlight:** https://testflight.apple.com/join/GHu6JWrk
+**Property / Leasing App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
@@ -56,7 +56,7 @@ Use the existing fictional service agreement pair:
 
 **Mission:** Compare → Review the changed field → Sign / save the correct version.
 
-**HR / People Operations TestFlight:** https://testflight.apple.com/join/24KQcpTn
+**HR / People Operations App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
@@ -69,7 +69,7 @@ Use the existing fictional service agreement pair:
 
 **Mission:** Compare → find both changes → Review → keep the correct version in Workspace.
 
-**Students / Research TestFlight:** https://testflight.apple.com/join/YfH5DJBP
+**Students / Research App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
@@ -86,7 +86,7 @@ It includes:
 - an Airplane Mode test before reconnecting to share;
 - a Compare mission for changed scope / amount / follow-up.
 
-**Field Service / Handover TestFlight:** https://testflight.apple.com/join/EPaX6wbH
+**Field Service / Handover App Store download:** https://apps.apple.com/app/id6786910043
 
 ---
 
