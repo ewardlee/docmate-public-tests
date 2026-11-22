@@ -1,8 +1,8 @@
-# DocMate 2.0 TestFlight Beta
+# DocMate 2.0 — Public App Store release (historical beta notes)
 
-**We are looking for people who actually work with PDFs on iPhone or iPad to stress-test DocMate 2.0 before release.**
+**DocMate 2.0 is now publicly available for iPhone and iPad. [Download the released app](https://apps.apple.com/app/id6786910043).**
 
-DocMate 2.0 is in external TestFlight testing while the App Store update is under review. This is pre-release software, not the currently public App Store release.
+This page is an archived record of the earlier external TestFlight campaign. The App Store release has been approved and published. Please use the current released app for new installs; the sample workflows remain useful with fictional documents.
 
 <p>
   <img src="https://docmate.me/assets/apple/docmate-2/v2/crops/compare-ipad-detail.png" alt="DocMate 2.0 Compare on iPad" width="46%">
@@ -12,24 +12,24 @@ DocMate 2.0 is in external TestFlight testing while the App Store update is unde
 
 ## Join
 
-**[Join DocMate 2.0 on TestFlight](https://testflight.apple.com/join/6dAXtmt3)**
+**[Download DocMate 2.0 on the App Store](https://apps.apple.com/app/id6786910043)**
 
-Current beta: **DocMate 2.0.0 (Build 120)**.
+Current public version at launch: **DocMate 2.0.0 (Build 147)**. Earlier beta Build 120 was a historical test build.
 
 ### Choose the workflow closest to your real work
 
-We are intentionally recruiting a small number of people with real document-heavy workflows. Pick the closest group; each link is capped so we can tell which workflows produce useful feedback.
+Choose the fictional sample workflow closest to your job. All roles now use the same public App Store release; the former cohort-specific TestFlight invitations are archived.
 
-- **Legal & contracts** — lawyers, paralegals, legal ops, contract administrators: [Join this cohort](https://testflight.apple.com/join/e5dv3qug)
-- **Finance & procurement** — accountants, AP/AR, finance operations, purchasing and procurement admins: [Join this cohort](https://testflight.apple.com/join/A9u3RV2D)
-- **Property & leasing** — property managers, landlords, leasing admins and real-estate agents: [Join this cohort](https://testflight.apple.com/join/GHu6JWrk)
-- **Sales & remote client work** — B2B sales reps, account managers, customer-success and relationship managers: [Join this cohort](https://testflight.apple.com/join/F4fSmBgZ)
-- **Small business & independent work** — owners, freelancers, consultants and solo operators: [Join this cohort](https://testflight.apple.com/join/PRHZm4Rg)
-- **Field service & handover** — technicians, installers, contractors, inspectors and field supervisors: [Join this cohort](https://testflight.apple.com/join/EPaX6wbH)
-- **HR & people operations** — recruiters, HR admins, people ops and office managers: [Join this cohort](https://testflight.apple.com/join/24KQcpTn)
-- **Students & research** — graduate students, researchers, teachers and dissertation students: [Join this cohort](https://testflight.apple.com/join/YfH5DJBP)
+- **Legal & contracts** — lawyers, paralegals, legal ops, contract administrators: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Finance & procurement** — accountants, AP/AR, finance operations, purchasing and procurement admins: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Property & leasing** — property managers, landlords, leasing admins and real-estate agents: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Sales & remote client work** — B2B sales reps, account managers, customer-success and relationship managers: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Small business & independent work** — owners, freelancers, consultants and solo operators: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Field service & handover** — technicians, installers, contractors, inspectors and field supervisors: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **HR & people operations** — recruiters, HR admins, people ops and office managers: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
+- **Students & research** — graduate students, researchers, teachers and dissertation students: [Download DocMate 2.0](https://apps.apple.com/app/id6786910043)
 
-If none fits, use the general beta link above. Please use fictional or privacy-safe documents. We want honest workflow feedback, not praise.
+All roles can use the public App Store link above. Please use fictional or privacy-safe documents. Honest workflow feedback is welcome.
 
 ## Zero-preparation field-service demo
 
@@ -39,7 +39,7 @@ If none fits, use the general beta link above. Please use fictional or privacy-s
 - **[Open the revised PDF V2](https://raw.githubusercontent.com/ewardlee/docmate-public-tests/main/Inputs/Field_Service_Work_Order_V2.pdf)**
 - **[Full five-minute field-service test instructions](FIELD_SERVICE_DEMO.md)**
 
-You can also help without installing TestFlight: tell us what you currently do to get paperwork signed before leaving a job. Honest criticism welcome.
+You can also help without installing the app: tell us what you currently do to get paperwork signed before leaving a job. Honest criticism welcome.
 
 ## Ready-made fictional test packs
 
@@ -49,7 +49,7 @@ You do not need to prepare your own PDF before testing. We now provide role-spec
 
 ## See the real-work stories
 
-The beta is organized around concrete jobs — lawyers comparing contract revisions, salespeople signing with remote clients, property managers handling leases, procurement teams checking quotes, field teams closing handovers, HR teams sending offers, and students managing research PDFs.
+The fictional demos are organized around concrete jobs — lawyers comparing contract revisions, salespeople signing with remote clients, property managers handling leases, procurement teams checking quotes, field teams closing handovers, HR teams sending offers, and students managing research PDFs.
 
 **[See the scenario stories with genuine DocMate 2.0 screenshots](SCENARIOS.md)**
 
@@ -78,7 +78,7 @@ Try a long or image-heavy PDF, Search, Workspace or Activity. Report slow loadin
 
 ## Send feedback
 
-The fastest method is **TestFlight screenshot feedback**: take a screenshot while using DocMate, annotate it if useful, then submit it through TestFlight.
+To share an actionable report, take a privacy-safe screenshot, describe the exact step and send it using the GitHub issue template or short feedback form below. Do not share confidential content.
 
 For a structured bug report, use the GitHub template:
 
@@ -113,4 +113,4 @@ This is recognition for honest testing. It is **not payment or a request for a p
 - [Privacy-safe test inputs](Inputs/)
 - [Testing method and limitations](METHOD.md)
 
-Private beta questions: **support@docmate.me**
+Product or historical beta questions: **support@docmate.me**
