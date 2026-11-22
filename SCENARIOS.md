@@ -1,6 +1,6 @@
 # DocMate 2.0 — real-work stories
 
-DocMate is being tested around **real document workflows**, not generic feature checklists. The stories below use genuine DocMate 2.0 screenshots. They describe handoffs and app-switching that the workflow is designed to remove; they are not processing-speed benchmarks.
+DocMate 2.0 is **publicly available on the App Store**. These fictional stories show familiar document handoffs and real DocMate 2.0 promotional screenshots; they are illustrative examples, not customer testimonials or speed benchmarks. Download the iPhone/iPad app here: **https://apps.apple.com/app/id6786910043**. PDF Compare requires DocMate Pro; verify important changes against your source PDF.
 
 ## Legal & contracts
 
@@ -21,7 +21,7 @@ A lawyer or contract administrator gets a revised service agreement by email. Th
 
 **What it removes:** manual page hunting, version anxiety, a separate signing handoff.
 
-**Legal / contracts TestFlight:** https://testflight.apple.com/join/e5dv3qug
+**Legal / contracts App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “The NDA arrives while you are away from your desk.”
 
@@ -55,7 +55,7 @@ A sales rep or account manager sends a proposal or contract through Mail, WhatsA
 
 **What it removes:** a face-to-face document handoff, printer dependence, repeated app switching.
 
-**Sales / remote client TestFlight:** https://testflight.apple.com/join/F4fSmBgZ
+**Sales / remote client App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “The customer sends a ‘small revision’ five minutes before approval.”
 
@@ -89,7 +89,7 @@ A buyer or procurement admin receives multiple quote revisions.
 
 **What it removes:** writing amounts down manually, switching between PDFs, approving the wrong version.
 
-**Finance / procurement TestFlight:** https://testflight.apple.com/join/A9u3RV2D
+**Finance / procurement App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “An invoice lands in WhatsApp while you are away from the office.”
 
@@ -114,7 +114,7 @@ A buyer or procurement admin receives multiple quote revisions.
 
 **What it removes:** a physical meeting just to move a document, plus print/scan return loops.
 
-**Property / leasing TestFlight:** https://testflight.apple.com/join/GHu6JWrk
+**Property / leasing App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “The rent or start date changed in the revised lease.”
 
@@ -145,7 +145,7 @@ A small-business owner receives the file in WhatsApp, WeChat or Mail.
 
 **What it removes:** a simple document job becoming a long chain of app switches.
 
-**Small business / independent TestFlight:** https://testflight.apple.com/join/PRHZm4Rg
+**Small business / independent App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “The client sends SOW v5 FINAL final. Is it really final?”
 
@@ -175,7 +175,7 @@ For technicians, installers, contractors and field supervisors.
 
 **What it removes:** “I’ll send the paperwork when I get back to the office.”
 
-**Field service / handover TestFlight:** https://testflight.apple.com/join/EPaX6wbH
+**Field service / handover App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “A work order changes after the team already has version one.”
 
@@ -206,7 +206,7 @@ A recruiter or HR administrator has two versions of the same offer.
 
 **What it removes:** manually checking salary/date fields and awkwardly correcting the wrong offer later.
 
-**HR / people operations TestFlight:** https://testflight.apple.com/join/24KQcpTn
+**HR / people operations App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “A remote employee needs onboarding forms signed today.”
 
@@ -232,7 +232,7 @@ A graduate student or researcher has lecture notes, papers and scanned handouts 
 
 **What it removes:** repeatedly hunting through Downloads and old email attachments.
 
-**Students / research TestFlight:** https://testflight.apple.com/join/YfH5DJBP
+**Students / research App Store download:** https://apps.apple.com/app/id6786910043
 
 ### “Version two arrives after you already saved version one.”
 
@@ -249,9 +249,9 @@ A lecturer or supervisor sends a revised form or assignment PDF.
 
 ---
 
-## What we want from testers
+## What we want from users
 
-We are not trying to maximize raw TestFlight installs. We want to know:
+Beyond raw download counts, what matters is whether the released app actually helps people with document workflows:
 
 1. Did this story match something you actually do?
 2. Which step did DocMate remove — and which step is still annoying?
