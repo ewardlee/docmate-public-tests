@@ -1,5 +1,9 @@
 # A work order you can test in minutes
 
+**Try DocMate Pro free for 7 days** on the annual plan for eligible subscribers. Then the local annual subscription price (US$24.99/year in the US); auto-renews unless cancelled. Basic features remain free. PDF Compare requires Pro.
+
+**[Try it yourself: six fictional PDF test packs](https://docmate.me/real-app/try/)** · **[Watch seven actual app demonstrations](https://docmate.me/real-app/)**.
+
 **DocMate 2.0 is now live on the App Store.** PDF Compare requires DocMate Pro. This mission uses fully fictional work orders and is not a customer testimonial. [Download DocMate 2.0](https://apps.apple.com/app/id6786910043).
 
 **Picture this:** You're finishing an HVAC job. The customer is at the door and wants a signed copy of the handover paperwork before you drive to the next site. You have only your iPhone, and reception may be poor.

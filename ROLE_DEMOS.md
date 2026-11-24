@@ -1,5 +1,9 @@
 # DocMate 2.0 - ready-made role test packs
 
+**Try DocMate Pro free for 7 days** on the annual plan for eligible subscribers. Then the local annual subscription price (US$24.99/year in the US); auto-renews unless cancelled. Basic features remain free. PDF Compare requires Pro.
+
+**[Try it yourself: six fictional PDF test packs](https://docmate.me/real-app/try/)** · **[Watch seven actual app demonstrations](https://docmate.me/real-app/)**.
+
 These are **fictional, privacy-safe PDF samples** that you can use with **DocMate 2.0, now available on the App Store**: https://apps.apple.com/app/id6786910043. PDF Compare requires DocMate Pro; check the original files before acting.
 
 You do not need to create your own document before testing. Pick the role closest to your real work, download V1 and V2, then run the short mission.

@@ -1,5 +1,9 @@
 # DocMate 2.0 — real-work stories
 
+**Try DocMate Pro free for 7 days** on the annual plan for eligible subscribers. Then the local annual subscription price (US$24.99/year in the US); auto-renews unless cancelled. Basic features remain free. PDF Compare requires Pro.
+
+**[Try it yourself: six fictional PDF test packs](https://docmate.me/real-app/try/)** · **[Watch seven actual app demonstrations](https://docmate.me/real-app/)**.
+
 **[Explore the visual 8-role story hub and download DocMate V2](https://docmate.me/stories/)**. These situations are fictional examples rather than real user reviews.
 
 DocMate 2.0 is **publicly available on the App Store**. These fictional stories show familiar document handoffs and real DocMate 2.0 promotional screenshots; they are illustrative examples, not customer testimonials or speed benchmarks. Download the iPhone/iPad app here: **https://apps.apple.com/app/id6786910043**. PDF Compare requires DocMate Pro; verify important changes against your source PDF.
