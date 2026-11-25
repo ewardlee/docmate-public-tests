@@ -2,6 +2,8 @@
 
 **Try DocMate Pro free for 7 days** on the annual plan for eligible subscribers. Then the local annual subscription price (US$24.99/year in the US); auto-renews unless cancelled. Basic features remain free. PDF Compare requires Pro.
 
+**[Download all 12 fictional PDFs in one ZIP](https://github.com/ewardlee/docmate-public-tests/releases/download/v2-fictional-pdf-samples/DocMate_V2_Fictional_PDF_Sample_Packs.zip)**. Or open one pair at a time from the sample page below.
+
 **[Try it yourself: six fictional PDF test packs](https://docmate.me/real-app/try/)** · **[Watch seven actual app demonstrations](https://docmate.me/real-app/)**.
 
 **DocMate 2.0 is publicly available for iPhone and iPad.** When someone sends a revised PDF right before signing, check what actually changed. Scan, OCR, Compare, Review, add a visible signature, save and reopen in one mobile workflow. PDF Compare requires DocMate Pro; verify important changes against the original document.
